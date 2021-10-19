@@ -261,6 +261,8 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    text-align: center;
 }
 .type-box {
     text-shadow: 2px 2px 4px black;
