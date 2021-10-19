@@ -250,6 +250,8 @@ a {
 
     box-sizing: border-box;
     padding: 8rem 10%;
+
+    text-align: center;
 }
 
 .types-container {
@@ -259,8 +261,6 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
-    text-align: center;
 }
 .type-box {
     text-shadow: 2px 2px 4px black;
